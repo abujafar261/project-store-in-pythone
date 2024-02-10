@@ -1,0 +1,1 @@
+{'jafar': {'iPhone 13': {'Price': 1000, 'Quantity': 1}, 'MacBook Pro': {'Price': 4000, 'Quantity': 2}}}
